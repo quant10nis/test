@@ -1,3 +1,3 @@
 print("Hello")
-hungry = input("are you hungry")
+print("thirsty")
 print("new version")
